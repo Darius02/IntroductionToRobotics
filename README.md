@@ -1,4 +1,4 @@
-# IntroductionToRobotics
+# Introduction To Robotics
 
 ## Repository containing homeworks from the Introduction to Robotics course.
 
@@ -14,4 +14,4 @@ Picture of the setup:
 
 Video:
 
-https://www.youtube.com/watch?v=CbO2Ixi61wY
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=CbO2Ixi61wY)
