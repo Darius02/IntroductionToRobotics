@@ -12,4 +12,4 @@ Picture of the setup:
 
 ![IMG_9615](https://user-images.githubusercontent.com/75308520/197857681-ae8fad75-cc71-4b96-8512-ef3aa84cd28f.jpg)
 
-[Video:](https://gyazo.com/d11609450fc87b7cb6ff0bfc9fcc4722)](https://www.youtube.com/watch?v=CbO2Ixi61wY)
+[![Video:](https://gyazo.com/d11609450fc87b7cb6ff0bfc9fcc4722)](https://www.youtube.com/watch?v=CbO2Ixi61wY)
