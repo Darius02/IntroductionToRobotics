@@ -29,6 +29,6 @@ Picture of the setup:
 
 ![IMG_9641](https://user-images.githubusercontent.com/75308520/199349412-0b250412-1242-4664-9e34-30efd1b9bf4e.jpg)
 
-[Click here for video]()
+[Click here for video](https://www.youtube.com/watch?v=XCQfLF9p-PE)
 
 
