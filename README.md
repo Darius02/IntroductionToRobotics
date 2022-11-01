@@ -17,3 +17,18 @@ Picture of the setup:
 ![IMG_9615](https://user-images.githubusercontent.com/75308520/197857681-ae8fad75-cc71-4b96-8512-ef3aa84cd28f.jpg)
 
 [Click here for video](https://www.youtube.com/watch?v=CbO2Ixi61wY)
+
+
+### Homework #2
+
+Task Requirements: Crosswalk
+
+Building the traffic lights for a crosswalk.
+
+Picture of the setup:
+
+![IMG_9641](https://user-images.githubusercontent.com/75308520/199349412-0b250412-1242-4664-9e34-30efd1b9bf4e.jpg)
+
+[Click here for video]()
+
+
