@@ -2,9 +2,8 @@
 
 ## Repository containing homeworks from the Introduction to Robotics course.
 
-<div id="header" align="center">
-  <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia1.giphy.com%2Fmedia%2FPRVDslxfTmwXkLinrk%2Fgiphy.gif&imgrefurl=https%3A%2F%2Fgiphy.com%2Fexplore%2Frobotics&tbnid=odHoQrsu8jEBjM&vet=12ahUKEwjFuMDc_P36AhUUgqQKHTHCA1MQMygDegUIARCVAg..i&docid=SWOHzKVu7LaGdM&w=480&h=480&q=robotics%20gif&ved=2ahUKEwjFuMDc_P36AhUUgqQKHTHCA1MQMygDegUIARCVAg" width="100"/>
-</div>
+![iStock-966248982](https://user-images.githubusercontent.com/75308520/200678473-f2f08229-7c09-4214-8df1-5cef34e78a1f.jpg)
+
 
 ### Homework #1
 
