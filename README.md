@@ -46,6 +46,19 @@ The system has the following states:
   ![h3](https://user-images.githubusercontent.com/75308520/200677497-75c1cb8e-bc65-4616-878c-65d777013ee9.jpeg)
   
   [Click here for video](https://www.youtube.com/watch?v=avmJ3c8Ojbo)
+  
+  
+  
+  ### Homework #4
+  
+  Task Requirements: Using a joystick to control the values on each digit of a 4-digit 7-segment display connected to a shift register.
+  
+  The system has the following states:
+  
+  State 1: Allows to move the joystick up and down in order to shift between the displays, while the dot of the current display is blinking. Pressing the buttton
+  allows you to lock the current digit and enter the second state.
+  
+  State 2: 
 
   
   
