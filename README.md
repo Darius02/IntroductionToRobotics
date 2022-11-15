@@ -66,7 +66,7 @@ The system has the following states:
   
   ![IMG_9716](https://user-images.githubusercontent.com/75308520/202033683-40d6ccb7-703d-4628-9e10-1e70ce616656.jpg)
   
-  [Click here for video](youtube.com/watch?v=pVjWSul-lE4)
+  [Click here for video](https://www.youtube.com/watch?v=pVjWSul-lE4)
 
   
   
