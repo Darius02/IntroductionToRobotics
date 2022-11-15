@@ -55,10 +55,18 @@ The system has the following states:
   
   The system has the following states:
   
-  State 1: Allows to move the joystick up and down in order to shift between the displays, while the dot of the current display is blinking. Pressing the buttton
-  allows you to lock the current digit and enter the second state.
+  State 1: Allows the user to move the joystick up and down in order to shift between the displays, while the dot of the current display is blinking. Pressing the
+  buttton allows you to lock the current digit and enter the second state.
   
-  State 2: 
+  State 2: The decimal point stays always on and the axis can not longer be used to cycle through the 4 digits. Using the other axis, the number on the current digit     IN HEX can be incremented or decremented. Pressing the button again returns to the previous state. When changing the number, it can be incremented for each joystick   movement - it does not increment continuosly if the joystick is kept in one position.
+  
+  State 3: Reset: toggled by long pressing the buttononly in the first state. When resetting, all the digits go back to 0 and the current position is set to the first   (rightmost) digit, in the first state.
+  
+  Picture of the setup:
+  
+  ![IMG_9716](https://user-images.githubusercontent.com/75308520/202033683-40d6ccb7-703d-4628-9e10-1e70ce616656.jpg)
+  
+  [Click here for video](youtube.com/watch?v=pVjWSul-lE4)
 
   
   
