@@ -15,7 +15,7 @@ void lcInit(){
 
 const int sizeMatrix = 8;
 
-bool smileyMatrix[sizeMatrix][sizeMatrix] = {
+bool LogoMatrix[sizeMatrix][sizeMatrix] = {
 {0, 0, 0, 1, 1, 0, 0, 0},
 {0, 0, 1, 0, 0, 1, 0, 0},
 {0, 1, 0, 1, 1, 0, 1, 0},
@@ -26,10 +26,10 @@ bool smileyMatrix[sizeMatrix][sizeMatrix] = {
 {0, 0, 0, 1, 1, 0, 0, 0}
 };
 
-void displaySmile(){
+void displayLogo(){
   for (int row = 0; row < sizeMatrix; row++){
     for (int col = 0; col < sizeMatrix; col++){
-      lc.setLed(0, row, col, smileyMatrix[row][col]);
+      lc.setLed(0, row, col, LogoMatrix[row][col]);
     }
   }
 }
