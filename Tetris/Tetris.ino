@@ -62,7 +62,7 @@ void loop(){
  
  if (J.whichDisplay()){
     if (!(J.whichDisplay() == 2 && contorX == 1 && lives)){
-      displaySmile();
+      displayLogo();
     }
     if (J.whichDisplay() == 1){
        if(J.isLeft()){
@@ -244,6 +244,6 @@ void loop(){
    else{
     if (J.clickedOn()) lcd.clear();
     startMenu();
-    displaySmile();
+    displayLogo();
    }
 }
