@@ -16,3 +16,9 @@ The purpose of the Tetris game is to destroy the rows of blocks before any of it
 - Lives: The player has only 3 lives. They have the chance to play the game without resetting the score until it loses all the lives. When all chances are lost, the player is asked if he wants to play again or go back to the main menu.
 - Highscore: The highscore will be kept in the EEPROM memory. The highscore can be reset.
 - While navigating through the menu, the logo of the game will be displayed.
+
+Picture of the setup:
+
+![IMG_0164](https://user-images.githubusercontent.com/75308520/206288721-2aadf210-910b-45cf-bbb0-d40e47772470.jpg)
+
+[Video of the game menu (unfinished)](https://www.youtube.com/watch?v=Na0qpk1AdgE)
